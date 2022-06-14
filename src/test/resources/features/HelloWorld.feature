@@ -1,7 +1,7 @@
-Feature: Is it Friday yet?
-  Everybody wants to know when it's Friday
+Feature: Print Hello World!
 
-  Scenario: Sunday isn't Friday
-    Given today is Sunday
-    When I ask whether it's Friday yet
-    Then I should be told "Nope"
+  # The second example has three steps
+  Scenario: The User is printing "Hello World!"
+    Given I Have to say hello
+    When I say hello
+    Then I should to see "Hello World!" on the console

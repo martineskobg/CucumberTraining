@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d3e4196-06dd-4d67-9d40-cc669faa3679" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/runner/TestRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/HelloWorldSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HelloWorldSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/HelloWorld.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/HelloWorld.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/HelloWorldSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HelloWorldSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/HelloWorld.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/HelloWorld.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
