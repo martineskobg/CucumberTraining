@@ -14,4 +14,4 @@ You can run the test by following the steps below:
 2. Than open test --> runner
 3. And run TestRunner.java class
 
-NOTE. you can run the test from the HelloWorld.feature file placed in resource folder
+NOTE. you can run the test from the HelloWorld.feature file placed in resource folder.
