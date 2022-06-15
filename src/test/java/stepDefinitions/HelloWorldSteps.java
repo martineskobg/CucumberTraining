@@ -6,20 +6,20 @@ import io.cucumber.java.en.When;
 import org.junit.Assert;
 
 public class HelloWorldSteps {
-    String helloWolrd;
-    @Given("I Have to say hello")
+    String helloWorld;
+    @Given("^I have to say hello$")
     public void haveToSayHello(){
-        System.out.println("I hav to say hello");
-        helloWolrd = "Hello World!";
+        helloWorld = "Hello World!";
     }
 
-    @When("I say hello")
+    @When("^I say hello$")
     public void sayHello(){
-        System.out.println(helloWolrd);
+        System.out.println(helloWorld);
     }
 
-    @Then("I should to see \"Hello World!\" on the console")
+    @Then("^I should see Hello World on the console$")
     public void i_should_to_see_Hello_World_on_the_console(){
-        Assert.assertEquals("Hello World!",helloWolrd);
+        Assert.assertEquals("Hello World!", helloWorld);
     }
+
 }
