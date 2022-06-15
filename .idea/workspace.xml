@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9d3e4196-06dd-4d67-9d40-cc669faa3679" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/HelloWorldSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HelloWorldSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +32,18 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_directory_selection": "C:/Users/Martin/Documents/Training Projects/BDDandCucumberAutomation/src/test/java",
-    "last_opened_file_path": "C:/Users/Martin/Documents/Training Projects/BDDandCucumberAutomation/src/test/resources/features",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Martin/Documents/Training Projects/BDDandCucumberAutomation/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Martin/Documents/Training Projects/BDDandCucumberAutomation/src/test/resources/features&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Martin\Documents\Training Projects\BDDandCucumberAutomation\src\test" />
@@ -163,7 +162,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="marto" />
+                        <option value="origin/marto" />
                       </list>
                     </value>
                   </entry>
