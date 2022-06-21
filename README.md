@@ -1,6 +1,6 @@
 # Java-simple-project.
 
-### This is a Java project created for training purples.
+### This is a Java project created for training purpose.
 
 #### Description
 
